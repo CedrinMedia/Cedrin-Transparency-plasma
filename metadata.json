@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "pixiepixie1309@gmail.com",
+                "Name": "Cedrin Media"
+            }
+        ],
+        "Category": "",
+        "Description": "Cedrin Transparency Theme by Cedrin Media",
+        "EnabledByDefault": true,
+        "Id": "default",
+        "License": "LGPL",
+        "Name": "Cedrin Transparency",
+        "Version": "5.105.0",
+        "Website": "https://cedrin.us/"
+    },
+    "X-Plasma-API": "5.0"
+}
